@@ -6,7 +6,6 @@
 
 <body>
 <h1>你好${user}</h1>
-<img src="/static/images/mingren.jpg" style="width: 100%;height: 100%">
 <h1>鸣人</h1>
 </body>
 </html>
