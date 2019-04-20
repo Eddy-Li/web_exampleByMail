@@ -48,4 +48,6 @@ public class MailController {
         return JSON.toJSONString(result);
     }
 
+
+
 }
